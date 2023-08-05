@@ -491,6 +491,9 @@ footer .footer-content {
     margin-left: 10px;
     width: 75%;
     }
+    footer .container {
+    width: 90%;
+    }
 }
 
 /* ==== DESKTOP STYLES ==== */
